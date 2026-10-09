@@ -1,0 +1,171 @@
+/* FORCE CAMPUS SERVICE HUB BLACK & GREY THEME */
+
+body {
+    background-color: #f1f3f5 !important;
+    color: #212529;
+}
+
+/* Navigation bar */
+nav.black-navbar,
+nav.pink-navbar {
+    background-color: #212529 !important;
+    border-bottom: 3px solid #6c757d !important;
+}
+
+nav.black-navbar .navbar-brand,
+nav.black-navbar .nav-link,
+nav.black-navbar .navbar-text,
+nav.pink-navbar .navbar-brand,
+nav.pink-navbar .nav-link,
+nav.pink-navbar .navbar-text {
+    color: #f8f9fa !important;
+}
+
+nav .navbar-brand:hover,
+nav .nav-link:hover {
+    color: #adb5bd !important;
+}
+
+/* Page background */
+body:has(.login-container),
+body:has(.login-card),
+body:has(form) {
+    background-color: #f1f3f5 !important;
+}
+
+/* Form cards */
+.card,
+.login-card,
+.login-container {
+    border-color: #dee2e6 !important;
+}
+
+/* Buttons */
+.btn-primary,
+button[type="submit"] {
+    background-color: #343a40 !important;
+    border-color: #343a40 !important;
+    color: #ffffff !important;
+}
+
+.btn-primary:hover,
+button[type="submit"]:hover {
+    background-color: #495057 !important;
+    border-color: #495057 !important;
+}
+
+/* Form fields */
+.form-control {
+    border-color: #ced4da !important;
+}
+
+.form-control:focus {
+    border-color: #6c757d !important;
+    box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.2) !important;
+}
+
+/* Links */
+a {
+    color: #495057;
+}
+
+a:hover {
+    color: #212529;
+}
+
+/* Admin badge */
+.admin-badge {
+    background-color: #6c757d !important;
+    color: #ffffff !important;
+}
+
+/* Footer */
+footer {
+    background-color: #212529 !important;
+    color: #ffffff !important;
+/* FORCE CAMPUS SERVICE HUB BLACK & GREY THEME */
+
+body {
+    background-color: #f1f3f5 !important;
+    color: #212529;
+}
+
+/* Navigation bar */
+nav.black-navbar,
+nav.pink-navbar {
+    background-color: #212529 !important;
+    border-bottom: 3px solid #6c757d !important;
+}
+
+nav.black-navbar .navbar-brand,
+nav.black-navbar .nav-link,
+nav.black-navbar .navbar-text,
+nav.pink-navbar .navbar-brand,
+nav.pink-navbar .nav-link,
+nav.pink-navbar .navbar-text {
+    color: #f8f9fa !important;
+}
+
+nav .navbar-brand:hover,
+nav .nav-link:hover {
+    color: #adb5bd !important;
+}
+
+/* Page background */
+body:has(.login-container),
+body:has(.login-card),
+body:has(form) {
+    background-color: #f1f3f5 !important;
+}
+
+/* Form cards */
+.card,
+.login-card,
+.login-container {
+    border-color: #dee2e6 !important;
+}
+
+/* Buttons */
+.btn-primary,
+button[type="submit"] {
+    background-color: #343a40 !important;
+    border-color: #343a40 !important;
+    color: #ffffff !important;
+}
+
+.btn-primary:hover,
+button[type="submit"]:hover {
+    background-color: #495057 !important;
+    border-color: #495057 !important;
+}
+
+/* Form fields */
+.form-control {
+    border-color: #ced4da !important;
+}
+
+.form-control:focus {
+    border-color: #6c757d !important;
+    box-shadow: 0 0 0 0.2rem rgba(108, 117, 125, 0.2) !important;
+}
+
+/* Links */
+a {
+    color: #495057;
+}
+
+a:hover {
+    color: #212529;
+}
+
+/* Admin badge */
+.admin-badge {
+    background-color: #6c757d !important;
+    color: #ffffff !important;
+}
+
+/* Footer */
+footer {
+    background-color: #212529 !important;
+    color: #ffffff !important;
+}
